@@ -40,8 +40,8 @@ incident_other: in a few cases there is greater explanation
 
 
 **Variables I've Added Using other datasets**
-pharma_class: e.g., opioid, stimulant
 
+pharma_class: e.g., opioid, stimulant
 specific_class: subclass
 population: taken from Statistics Canada's population estimates. I've used the beginning of the year for calculating per capita values
 
