@@ -8,6 +8,7 @@ The R Code below produces multiple graphs that look at hydromorphone and oxycodo
 I've tried to make the code as accessible as possible to follow along, although a basic understanding of R & tidyverse is probably required. I've made certain choices to group together variables (such as all long term care) together, and for the most part to restrict the analysis just to tablets. Running the code line-by-line should give you the information I've provided as well as certain summary statistics that shaped the analysis.
 
 **Variables in the original dataset (renamed by me for ease):**
+
 ID: Basically the incident report, so if a pharmacy was robbed and lost 10 hydromorphone pills, they probably also had 10 oxy's stolen etc.
 
 province: self-explanatory
